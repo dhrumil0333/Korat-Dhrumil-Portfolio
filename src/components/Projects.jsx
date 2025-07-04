@@ -30,7 +30,7 @@ const Projects = () => {
       image: 'https://thumbs.dreamstime.com/b/portfolio-banner-colorful-confetti-portfolio-banner-colorful-paper-confetti-vector-background-125413772.jpg',
       technologies: ["React", "Node.js", "MongoDB", "Express"],
       liveUrl: "#",
-      githubUrl: "https://github.com/dhrumil0333/KD-s-Fashion",
+      githubUrl: "https://github.com/dhrumil0333/Korat-Dhrumil-Portfolio",
       featured: true
     },
   ];
